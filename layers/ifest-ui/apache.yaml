@@ -1,0 +1,7 @@
+packages:
+  - 'php5-gd'
+sites:
+  ifest-ui:
+    options: 'Indexes FollowSymLinks MultiViews'
+    install_from:
+      source: https://drive.google.com/uc?export=download&id=0B5u0Pn-P2wkTVWtpQnI1RnpNMjg
